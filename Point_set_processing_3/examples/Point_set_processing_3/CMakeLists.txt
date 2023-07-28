@@ -51,6 +51,7 @@ endif()
 foreach(
   target
   average_spacing_example
+  average_spacing_JAF
   bilateral_smooth_point_set_example
   grid_simplification_example
   grid_simplify_indices
